@@ -1,0 +1,6 @@
+E:\C#Egitim\Variables\Variables\bin\Debug\Variables.exe.config
+E:\C#Egitim\Variables\Variables\bin\Debug\Variables.exe
+E:\C#Egitim\Variables\Variables\bin\Debug\Variables.pdb
+E:\C#Egitim\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+E:\C#Egitim\Variables\Variables\obj\Debug\Variables.exe
+E:\C#Egitim\Variables\Variables\obj\Debug\Variables.pdb

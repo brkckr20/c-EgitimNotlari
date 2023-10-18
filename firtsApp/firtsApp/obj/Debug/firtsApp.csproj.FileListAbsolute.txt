@@ -1,0 +1,7 @@
+E:\C#Egitim\firtsApp\firtsApp\bin\Debug\firtsApp.exe.config
+E:\C#Egitim\firtsApp\firtsApp\bin\Debug\firtsApp.exe
+E:\C#Egitim\firtsApp\firtsApp\bin\Debug\firtsApp.pdb
+E:\C#Egitim\firtsApp\firtsApp\obj\Debug\firtsApp.csprojAssemblyReference.cache
+E:\C#Egitim\firtsApp\firtsApp\obj\Debug\firtsApp.csproj.CoreCompileInputs.cache
+E:\C#Egitim\firtsApp\firtsApp\obj\Debug\firtsApp.exe
+E:\C#Egitim\firtsApp\firtsApp\obj\Debug\firtsApp.pdb
